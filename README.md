@@ -1,6 +1,5 @@
 ## Basic Calculator Salary
 
-![Example](https://github.com/Prospect121/calculadora_salarial/blob/main/example.png)
 
 ## Running the Project Locally
 
@@ -25,4 +24,4 @@ The project will be available at **127.0.0.1:8000**.
 
 ## License
 
-The source code is released under the [MIT License](https://github.com/Prospect121/calculadora_salarial/blob/main/LICENSE.md).
+The source code is released under the [MIT License](https://github.com/isaacleal10/calculadora/blob/main/LICENSE.md).
